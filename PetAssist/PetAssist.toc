@@ -1,0 +1,4 @@
+## Interface: 11200
+## Title: PetAssist
+## Notes: Simple pet attack helper
+PetAssist.lua
